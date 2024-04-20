@@ -1,0 +1,10 @@
+RootFolder:
+  Subfolder1:
+    videos:
+      - id: someloomid
+        name: some video name
+    Subfolder2:
+      subfolder3:
+        videos:
+          - id: someotherloomid
+            name: some video name 2
